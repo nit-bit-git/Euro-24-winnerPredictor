@@ -37,10 +37,9 @@
 </p>
 <p align="center">
   when tested with test data:-
-  ![image](https://github.com/nit-bit-git/Euro-24-winnerPredictor/blob/main/sseuro.png)
 </p>
 
-
+![image](https://github.com/nit-bit-git/Euro-24-winnerPredictor/blob/main/sseuro.png)
 ## 💬 **Get Involved**
 
 <p align="center">
@@ -48,7 +47,6 @@
 </p>
 
 ## 🤝 **Acknowledgements**
-
 
   A special thanks to the creators and maintainers of [fbref.com](https://fbref.com) for providing valuable football data.
 
