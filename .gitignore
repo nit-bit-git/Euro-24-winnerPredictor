@@ -1,0 +1,6 @@
+# Ignore all .csv files
+*.csv
+
+
+# Uncomment the following line if you want to ignore all files and folders recursively
+**/
