@@ -1,8 +1,7 @@
 # **Euro 2024 Winner Predictor Model** 🏆
 
-<p align="center">
   Welcome to the **Euro 2024 Winner Predictor Model** repository! This project aims to forecast the winner of Euro 2024 using data scraped from [fbref.com](https://fbref.com). Currently, the model has been tested and achieved a precision score of **0.90**, though it is still in development.
-</p>
+
 
 ## 🚀 **Project Overview**
 
