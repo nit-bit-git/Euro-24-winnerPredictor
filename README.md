@@ -37,8 +37,9 @@
 </p>
 <p align="center">
   when tested with test data:-
+  ![image](https://github.com/nit-bit-git/Euro-24-winnerPredictor/blob/main/sseuro.png)
 </p>
-![image](https://github.com/nit-bit-git/Euro-24-winnerPredictor/blob/main/sseuro.png)
+
 
 ## 💬 **Get Involved**
 
