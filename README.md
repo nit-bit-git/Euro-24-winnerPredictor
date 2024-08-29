@@ -35,6 +35,10 @@
 <p align="center">
   The Random Forest Classifier has been tested on the data, achieving a precision score of **0.90**. This suggests the model has a high level of accuracy in predicting the outcomes, but further development is needed to finalize the model.
 </p>
+<p align="center">
+  when tested with test data:-
+</p>
+![image](https://github.com/user-attachments/assets/8d555b1d-9a30-4883-a5f9-3c194f7474ad)
 
 ## 💬 **Get Involved**
 
