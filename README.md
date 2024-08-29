@@ -45,6 +45,6 @@
 
 ## 🤝 **Acknowledgements**
 
-<p align="center">
+
   A special thanks to the creators and maintainers of [fbref.com](https://fbref.com) for providing valuable football data.
-</p>
+
